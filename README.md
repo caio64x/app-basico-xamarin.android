@@ -43,4 +43,4 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 <img src="https://github.com/caio64x/app-basico-xamarin.android/blob/master/app-increment-decrement/imagens_post/5.jpg" alt="arquivo_apk">
 
 
-[⬆ Voltar ao topo](#app-basico-xamarin.android)<br>
+[⬆ Voltar ao topo](#incrementar-decrementar)<br>
